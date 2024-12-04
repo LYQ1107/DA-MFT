@@ -8,11 +8,9 @@ The official implementation of the paper：
 <img src="assets/Framework.png" width="900"/>
 </div>
 
-
 <div align="center">
-<img src="assets/datasets.jpg" width="900"/>
+   <img src="assets/details.jpg" width="250"/><img src="assets/GIF1.gif" width="250" height='250'/><img src="assets/sota.jpg" width="250" height='250'/>
 </div>
-
 
 -----
 
@@ -31,6 +29,10 @@ Multiple fish tracking (MFT) is an essential computer vision task underpinning f
 + A deep cascade matching method is proposed to fully utilize the detection frames through unsupervised learning, which implements stable fish tracking by stage dividing.
 + A novel fish tracking dataset is built for domain adaptation-based multiple fish tracking, captured across diverse aquaculture condition settings and fish species.
 
+## Domain-adapted MFT dataset
+<div align="center">
+<img src="assets/datasets.jpg" width="900"/>
+</div>
 
 ### MFT series Datasets
 The dataset have been released on [[BaiduYun: c5i7]](https://pan.baidu.com/s/1ZEnay9fw2EVpmAikYluWXg?pwd=c5i7). The datasets are structured as below.
