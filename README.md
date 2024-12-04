@@ -10,7 +10,7 @@ The official implementation of the paper：
 
 
 <div align="center">
-<img src="assets/datasets.png" width="900"/>
+<img src="assets/datasets.jpg" width="900"/>
 </div>
 
 
