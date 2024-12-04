@@ -17,7 +17,7 @@ The official implementation of the paper：
 
 ## Tracking Result Samples
 <div align="center">
-   <img src="assets/details.jpg" width="900"/><img src="assets/vis.jpg" width="380" />
+   <img src="assets/vis.jpg" width="1000"/>
 </div>
 
 ## Abstract
