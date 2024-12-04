@@ -9,7 +9,7 @@ The official implementation of the paper：
 </div>
 
 <div align="center">
-   <img src="assets/details.jpg" width="250"/><img src="assets/GIF1.gif" width="250" height='250'/><img src="assets/sota.jpg" width="250" height='250'/>
+   <img src="assets/details.jpg" width="500"/><img src="assets/sota.jpg" width="380" />
 </div>
 
 -----
