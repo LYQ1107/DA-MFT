@@ -18,6 +18,8 @@ The official implementation of the paper：
 ## Tracking Result Samples
 <div align="center">
    <img src="assets/vis.jpg" width="1000"/>
+</div><div align="center">
+   <img src="assets/temp.gif" width="500"/>
 </div>
 
 ## Abstract
