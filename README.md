@@ -18,8 +18,11 @@ The official implementation of the paper：
 ## Tracking Result Samples
 <div align="center">
    <img src="assets/vis.jpg" width="1000"/>
-</div><div align="center">
-   <img src="assets/temp.gif" width="500"/>
+</div>
+
+## Tracking Video
+<div align="center">
+   <img src="assets/temp.gif" width="700"/>
 </div>
 
 ## Abstract
@@ -35,6 +38,8 @@ Multiple fish tracking (MFT) is an essential computer vision task underpinning f
 <div align="center">
 <img src="assets/datasets.jpg" width="900"/>
 </div>
+
+
 
 ### Domain-adapted MFT dataset
 The dataset have been released on [[BaiduYun: c5i7]](https://pan.baidu.com/s/1ZEnay9fw2EVpmAikYluWXg?pwd=c5i7). The datasets are structured as below.
@@ -61,8 +66,17 @@ The dataset have been released on [[BaiduYun: c5i7]](https://pan.baidu.com/s/1ZE
 
 
 
+
 ## Acknowledgement
 A large part of the code is borrowed from [OC_SORT](https://github.com/noahcao/OC_SORT), [ByteTrack](https://github.com/ifzhang/ByteTrack), [CDAN](https://github.com/thuml/CDAN). Thanks for their wonderful works!
 
+
+
+
+
 ## Citation
 The related resources will be released after the manuscript is accepted. 
+
+
+
+
